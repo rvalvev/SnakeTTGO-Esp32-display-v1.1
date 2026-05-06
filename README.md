@@ -22,7 +22,7 @@ Requisitos
 
 ## Instalación
 1. Clona este repositorio:
-git clone https://github.com/tuusuario/ttgo-snake.git
+git clone https://github.com/rvalvev/ttgo-snake.git
 2. Abre el proyecto en Arduino IDE.
 3. Configura la librería TFT_eSPI para TTGO T-Display.
 4. Carga el código en tu placa ESP32.
